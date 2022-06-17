@@ -1,0 +1,36 @@
+id: IA94E8212
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:05:30.798002'
+last_modified: '2022-06-17T14:05:30.798020'
+parser: null
+source_metadata:
+  title: Scholasticism Series
+  language: en
+  description: 'Texts on the subject of scholasticism, including warnings of the limitations
+    of intellectual understanding:'
+  volume:
+    f2C0B:
+      title: On the Ignorance of the Learned
+      base_file: f2C0B.txt
+      order: 1
+      parent: Advice
+    f133C:
+      title: An Appeal for the Prosperity of Teaching and Studying the Five Major
+        Scriptures
+      base_file: f133C.txt
+      order: 2
+      parent: Rituals
+    f4C9A:
+      title: Many Are the Scholars Who Travel Empty-Handed to the Realm of the Dead
+      base_file: f4C9A.txt
+      order: 3
+      parent: Songs and Poems
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
